@@ -141,4 +141,4 @@ Het StUF Testplatform is een onafhankelijk en formeel toetsinginstrument voor he
 
 Primair is het StUF Testplatform voor ICT softwareleveranciers die werkzaam zijn op de gemeentelijke markt. Zij kunnen vroegtijdig tijdens de ontwikkeling van software testen of applicatie-applicatiekoppelingen voldoen aan StUF. Leveranciers worden geacht een (preventieve) test uit te voeren op het StUF Testplatform voordat een softwareproduct in productie wordt genomen.
 
-In de [handleiding StUF Testplatform](documenten/Gebruikershandleiding_StUF_Testplatform) wordt verder toegelicht hoe het testplatform gebruikt kan worden.
+In de [handleiding StUF Testplatform](./documenten/Gebruikershandleiding_StUF_Testplatform.pdf) wordt verder toegelicht hoe het testplatform gebruikt kan worden.
