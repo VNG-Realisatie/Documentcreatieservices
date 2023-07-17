@@ -27,7 +27,7 @@ folder_files:
     status: Definitief
     omschrijving: 
   - title: Testset Documentcreatie Services 1.1
-    path: 20141125-Testset_documentcreatie_1.1.zip
+    path: documenten/20141125-Testset_documentcreatie_1.1.zip
     group: 110
     versie: 1.1
     status: 
