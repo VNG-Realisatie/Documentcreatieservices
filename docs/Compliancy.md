@@ -21,11 +21,11 @@ title: Compliancy Documentcreatie services
 ## Inleiding
 De standaard Documentcreatie services 1.0 is op 2 april 2014 formeel vastgesteld door de StUF Regiegroep. Daarmee heeft de standaard de status ‘In gebruik’ en wordt gemeenten aanbevolen om deze standaard te gebruiken.
 
-Voor een juiste toepassing van de standaard Documentcreatie services worden door KING compliancy instrumenten ontwikkeld met als doel interoperabiliteitsproblemen tussen applicaties bij gemeenten preventief te verminderen. In de paragraaf 2.1 ”Wanneer is een softwareproduct compliant” is aangegeven wanneer een softwareproduct compliant is aan de Documentcreatie services 1.0.
+Voor een juiste toepassing van de standaard Documentcreatie services worden door VNG Realisatie compliancy instrumenten ontwikkeld met als doel interoperabiliteitsproblemen tussen applicaties bij gemeenten preventief te verminderen. In de paragraaf 2.1 ”Wanneer is een softwareproduct compliant” is aangegeven wanneer een softwareproduct compliant is aan de Documentcreatie services 1.0.
 
-KING adviseert gemeenten bij aanschaf van software die moet voldoen aan deze standaard gebruik te maken van de Handreiking Levering en Acceptatievoorwaarden ICT. Daarin zijn voorwaarden opgenomen over het gebruik van compliancy instrumenten.
+VNG Realisatie adviseert gemeenten bij aanschaf van software die moet voldoen aan deze standaard gebruik te maken van de Handreiking Levering en Acceptatievoorwaarden ICT. Daarin zijn voorwaarden opgenomen over het gebruik van compliancy instrumenten.
 
-Op 1 juni 2014 heeft KING de technische professionals van leveranciers tekst en uitleg gegeven over het deze testset en het gebruik van het StUF Testplatform. Onderliggend document maakt deel uit van de compliancy instrumenten van KING.
+Op 1 juni 2014 heeft VNG Realisatie de technische professionals van leveranciers tekst en uitleg gegeven over het deze testset en het gebruik van het StUF Testplatform. Onderliggend document maakt deel uit van de compliancy instrumenten van VNG Realisatie.
 
 ## Doel van document
 Doel van dit document is het definiëren van een standaard testset voor het testen van koppelingen die gebaseerd zijn op de Documentcreatie services 1.0. Deze testset beschrijft de tests die minimaal voorafgaand aan het in productie nemen van (aangepaste of nieuwe) software door de betreffende softwareleverancier uitgevoerd moeten worden.
@@ -137,7 +137,7 @@ Het sequence diagram geeft aan in welke volgorde de berichten verstuurd moeten w
 Afbeelding 3: voorbeeld sequence diagram
 
 ## Gebruik van het StUF Testplatform
-Het StUF Testplatform is een onafhankelijk en formeel toetsinginstrument voor het testen van koppelingen gebaseerd op standaarden uit de StUF familie. Het platform is vanaf eind 2011 in productie en wordt beheerd en doorontwikkeld door KING.
+Het StUF Testplatform is een onafhankelijk en formeel toetsinginstrument voor het testen van koppelingen gebaseerd op standaarden uit de StUF familie. Het platform is vanaf eind 2011 in productie en wordt beheerd en doorontwikkeld door VNG Realisatie.
 
 Primair is het StUF Testplatform voor ICT softwareleveranciers die werkzaam zijn op de gemeentelijke markt. Zij kunnen vroegtijdig tijdens de ontwikkeling van software testen of applicatie-applicatiekoppelingen voldoen aan StUF. Leveranciers worden geacht een (preventieve) test uit te voeren op het StUF Testplatform voordat een softwareproduct in productie wordt genomen.
 
