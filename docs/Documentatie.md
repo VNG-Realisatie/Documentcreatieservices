@@ -61,10 +61,6 @@ folder_files:
 # Documentatie Documentcreatie services
 
 ## Documentatie
-* Koppelvlakspecificatie Documentcreatieservices 1.0.02 (inclusief bijlages)
-* Schema's
-* Compliancy testset Documentcreatie services 1.0
-* Voorbeeldberichten
 
 ### Documentcreatieservices 1.1
 

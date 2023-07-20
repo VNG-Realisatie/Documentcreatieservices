@@ -9,7 +9,7 @@ De Documentcreatieservices maken gebruik van de volgende referentiecomonenten:
 * Documentcreatieapplicatie (DCA)
 * Documentcreatieserviceverzoeker (DCV)
 
-De volgende referentiecomponenten zijn relevant, omdat ze voor of na documentcreatie een rol spelen. Deze referentiecomponenten worden niet vanuit de Documentcreatieservices maar elders gespecificeerd.
+De volgende referentiecomponenten zijn relevant, omdat ze voor of na documentcreatie een rol spelen. Deze referentiecomponenten worden niet vanuit de Documentcreatieservices maar [elders](https://www.gemmaonline.nl/index.php/GEMMA_Gegevens-_en_berichtenarchitectuur) gespecificeerd.
 
 * Zaaksysteem (ZS)
 * Documentmanagementsysteem (DMS)
