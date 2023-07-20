@@ -31,7 +31,7 @@ Gebruik van de standaard Documentcreatie kan de volgende voordelen opleveren:
 
 ## Community voor vragen en wijzigingsverzoeken
 
-Voor het indienen van wijzigingsverzoeken en het stellen van vragen kan gebruik worden gemaakt van de [https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20DCR community Documentcreatieservices]. Bij wijzigingsverzoeken vragen we u de volgende zaken op te nemen:
+Voor het indienen van wijzigingsverzoeken en het stellen van vragen kan gebruik worden gemaakt van de [community Documentcreatieservices](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20DCR). Bij wijzigingsverzoeken vragen we u de volgende zaken op te nemen:
 * Onderbouwing voor het wijzingsverzoek
 * De eigen voorkeur qua oplossing, inclusief voor- en nadelen
 * Eventuele andere oplossingen inclusief voor en nadelen
