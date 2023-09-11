@@ -5,9 +5,7 @@ title: ICT-aanbod StUF-koppelvlak Documentcreatie services
 # ICT-aanbod StUF-koppelvlak Documentcreatie services
 
 ## Afspraken met leveranciers
-* In het [addendum Documentcreatie services](https://www.softwarecatalogus.nl/addenda/addendum/Documentcreatie%20services%201%252E0) zijn afspraken gemaakt over implementatie van deze standaard in software;
-* Leveranciers zijn akkoord met de afspraak om de standaard beschikbaar te stellen in de 1e release na 1 juli 2014 en uiterlijk 31 december 2014.
-* Leveranciers houden de actuele releaseplanning ten aanzien van deze standaard bij in de GEMMA Softwarecatalogus.
+Leveranciers houden de actuele releaseplanning ten aanzien van deze standaard bij in de GEMMA Softwarecatalogus.
 
 ## Hoe weet u welke leveranciers het koppelvlak beschikbaar hebben?
 De GEMMA Softwarecatalogus biedt u in twee simpele stappen een overzicht van softwareapplicaties die de standaard Documentcreatie Services 1.0 ondersteunen:
