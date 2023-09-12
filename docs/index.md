@@ -29,11 +29,6 @@ Gebruik van de standaard Documentcreatie kan de volgende voordelen opleveren:
 * Efficiëntere, snellere dienstverlening. Sneller werken door geautomatiseerd invullen van gegevens 
 * Uniforme, eenduidige opmaak en beheer. Eenvoudiger en mogelijk centraal beheer van templates en huisstijl voor eenduidige uitgaande correspondentie.
 
-## Community voor vragen en wijzigingsverzoeken
+## Discussieplatform
 
-Voor het indienen van wijzigingsverzoeken en het stellen van vragen kan gebruik worden gemaakt van de [community Documentcreatieservices](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20DCR). Bij wijzigingsverzoeken vragen we u de volgende zaken op te nemen:
-* Onderbouwing voor het wijzingsverzoek
-* De eigen voorkeur qua oplossing, inclusief voor- en nadelen
-* Eventuele andere oplossingen inclusief voor en nadelen
-
-Alle leveranciers en gemeenten kunnen dan online reageren op een wijzigingsverzoek. VNG Realisatie zal naar aanleiding van deze reacties een wijzigingsvoorstel doen dat in lijn is met de voorkeur in de reacties. Dit voorstel wordt vervolgens ter besluitvorming voorgelegd aan de werkgroep Documentcreatieservices. Hoe uitgebreider de online discussie is (inclusief argumenten), hoe korter de discussie tijdens bijeenkomsten kan zijn.
+Hier kunt u terecht voor de nieuwste discussies m.b.t. [Documentcreatieservices](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20DCR).
