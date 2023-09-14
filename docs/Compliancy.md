@@ -132,7 +132,7 @@ Afbeelding 2: voorbeeld scenariobeschrijving
 
 Het sequence diagram geeft aan in welke volgorde de berichten verstuurd moeten worden door het StUF Testplatform of de te testen applicatie. De rode bolletjes geven de scenariostappen weer.
 
-<img src="./images/Testscenario_afbeelding_2.png" width="400"/>
+<img src="./images/Testscenario_afbeelding_2.png" width="200"/>
 
 Afbeelding 3: voorbeeld sequence diagram
 
