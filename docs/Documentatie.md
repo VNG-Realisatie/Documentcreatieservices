@@ -62,7 +62,7 @@ folder_files:
   - title: Testset Documentcreatie Services 1.1 (zip)
     path: documenten/20141125-Testset_documentcreatie_1.1.zip
     group: 100
-    versie: 1.1
+    versie: 1.0
     status: 
     omschrijving: 
     datum: 20141125
