@@ -10,6 +10,20 @@ title: Documentcreatie services
 
 Documentcreatieservices is een op StUF-ZKN en StUF-BG gebaseerde berichtenstandaard voor de uitwisseling van de gegevens ten behoeve van het documentcreatieproces.
 
+Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk 
+om invulling te (blijven) geven aan de behoefte en wensen van gemeenten. 
+Gemeenten, leveranciers en VNG Realisatie werken daarom aan een nieuwe
+generatie standaarden voor zaakgericht werken waaronder ook een voor voor documentcreatie. Zie voor de voortgang van
+dit project [hier](https://vng-realisatie.github.io/gemma-zaken/). 
+
+Ook de doorontwikkeling van de StUF standaard, de StUF sectormodellen en de StUF 
+koppelvlakken waaronder de hier beschreven Documentcreatieservices is daarom 
+stopgezet. Alleen wetswijzigingen, wijzigingen in de Logische Ontwerpen van 
+Basisregistraties en gevonden fouten kunnen aanleiding zijn voor het publiceren 
+van een nieuwe versie van deze standaarden. Zo wordt er voor gezorgd dat gemeenten 
+hun werk kunnen blijven doen. Een toelichting op het vernieuwen van de standaarden 
+is te vinden bij API-standaarden.
+
 | Versie | Status | Toelichting |
 | --- | --- | --- |
 | 1.0 | In gebruik | Deze standaard is ontwikkeld door operatie NUP |
@@ -29,6 +43,14 @@ Gebruik van de standaard Documentcreatie kan de volgende voordelen opleveren:
 * Efficiëntere, snellere dienstverlening. Sneller werken door geautomatiseerd invullen van gegevens 
 * Uniforme, eenduidige opmaak en beheer. Eenvoudiger en mogelijk centraal beheer van templates en huisstijl voor eenduidige uitgaande correspondentie.
 
-## Discussieplatform
+## Community voor vragen en wijzigingsverzoeken
 
-Hier kunt u terecht voor de nieuwste discussies m.b.t. [Documentcreatieservices](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20DCR).
+Het kan voorkomen dat er nog onduidelijkheden zijn in de
+standaard Zaak- Documentservices. Daarvoor is op Github een
+[community](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20DCR)
+beschikbaar gesteld waar u vragen kunt stellen door een issue aan te
+maken. Middels het label ‘Koppelvlak - DCR’ kunt u het issue
+vervolgens aan deze standaard koppelen.
+
+Zowel VNG Realisatie als leveranciers en gemeenten kunnen dan online
+reageren op de vraag en deze beantwoorden.
