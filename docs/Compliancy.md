@@ -23,7 +23,7 @@ De standaard Documentcreatie services 1.0 is op 2 april 2014 formeel vastgesteld
 
 Voor een juiste toepassing van de standaard Documentcreatie services worden door VNG Realisatie compliancy instrumenten ontwikkeld met als doel interoperabiliteitsproblemen tussen applicaties bij gemeenten preventief te verminderen. In de paragraaf 2.1 ”Wanneer is een softwareproduct compliant” is aangegeven wanneer een softwareproduct compliant is aan de Documentcreatie services 1.0.
 
-VNG Realisatie adviseert gemeenten bij aanschaf van software die moet voldoen aan deze standaard gebruik te maken van de <span style="color:red">Handreiking Levering en Acceptatievoorwaarden ICT</span>. Daarin zijn voorwaarden opgenomen over het gebruik van compliancy instrumenten.
+<!--VNG Realisatie adviseert gemeenten bij aanschaf van software die moet voldoen aan deze standaard gebruik te maken van de <span style="color:red">Handreiking Levering en Acceptatievoorwaarden ICT</span>. Daarin zijn voorwaarden opgenomen over het gebruik van compliancy instrumenten.-->
 
 Op 1 juni 2014 heeft VNG Realisatie de technische professionals van leveranciers tekst en uitleg gegeven over het deze testset en het gebruik van het StUF Testplatform. Onderliggend document maakt deel uit van de compliancy instrumenten van VNG Realisatie.
 
