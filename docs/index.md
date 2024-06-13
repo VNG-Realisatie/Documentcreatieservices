@@ -6,7 +6,8 @@ title: Documentcreatie services
 
 **Actuele versie:** 1.1<br/>
 **Beheerder:**  VNG Realisatie<br/>
-**Afkorting:**  StUF-DCR 
+**Afkorting:**  StUF-DCR<br/>
+**Status:** In gebruik
 
 Documentcreatieservices is een op StUF-ZKN en StUF-BG gebaseerde berichtenstandaard voor de uitwisseling van de gegevens ten behoeve van het documentcreatieproces.
 
